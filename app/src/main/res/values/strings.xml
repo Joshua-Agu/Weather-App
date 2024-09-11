@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Benji Weather</string>
+    <string name="search">SEARCH...</string>
+    <string name="what_is_the_weather_in">what is the weather in?</string>
+    <string name="weather_forecast_for">Weather Forecast For?</string>
+    <string name="search_location">Search Location</string>
+    <string name="search_icon" />
+    <string name="location">Location</string>
+    <string name="benji_s_weather_app">Benji\'s Weather App</string>
+    <string name="_56">56</string>
+    <string name="something">something</string>
+    <string name="enter_location">Enter Location</string>
+</resources>
