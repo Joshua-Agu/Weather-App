@@ -16,10 +16,6 @@ A simple yet powerful Weather App built for Android using Java and Android Studi
 
 ---
 
-## Screenshots
-
-*(Add screenshots here to showcase your app’s UI. Example:)*
-
 ![Main Screen](app/src/main/res/drawable/screenshot_main.png)
 ![Search Feature](app/src/main/res/drawable/screenshot_search.png)
 
